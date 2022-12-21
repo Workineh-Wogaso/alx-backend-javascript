@@ -11,5 +11,3 @@ export default function guardrail(mathFunction) {
 
   return queue;
 }
-Footer
-© 2022 GitHub
